@@ -16,9 +16,13 @@ Deployment Assessment: Tools for evaluating and optimizing deployment processes.
 Neural Network: Deep learning applications for solving real-world problems.  
 Evolution Optiks: Innovative projects exploring cutting-edge optics technologies.  
 Chatbot: AI-powered chatbot for enhanced communication and support.  
-Skills and Interests 💡  
+
+Skills and Interests 💡 
+
 🧠 AI/ML: Building intelligent models that solve complex challenges.  
 🛠️ Development: Crafting scalable and efficient applications in Python.  
 🌍 Open Source: Passionate about collaborating and sharing knowledge with the community.  
+
+
 Let’s connect and build something amazing together!  
 
